@@ -1,3 +1,8 @@
+# 진행 내역
+|날짜|내역|
+|:---:|:---:|
+|05.12|react 프로젝트 내부 구조 탐색|
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
